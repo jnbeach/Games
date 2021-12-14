@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzwC6/2N40ilGmjo1GDe06/pcsOf9KFIKXn+b0IJtrah89e0JH58jO775z39rCnbWOhwqC9BJVpT4m916FGVgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\Connect4\\Connect4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

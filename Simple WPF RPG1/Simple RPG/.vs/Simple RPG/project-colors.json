@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3ecf1b4-a81e-4cea-97a0-f48454309953": {
+      "ProjectGuid": "c3ecf1b4-a81e-4cea-97a0-f48454309953",
+      "DisplayName": "Simple RPG",
+      "ColorIndex": 0
+    },
+    "45384787-8b8a-4628-b840-9787b76614bd": {
+      "ProjectGuid": "45384787-8b8a-4628-b840-9787b76614bd",
+      "DisplayName": "Engine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

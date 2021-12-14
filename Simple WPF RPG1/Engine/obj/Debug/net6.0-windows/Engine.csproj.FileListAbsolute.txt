@@ -1,0 +1,26 @@
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\bin\Debug\net6.0-windows\Engine.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\bin\Debug\net6.0-windows\ref\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\ref\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Engine\obj\Debug\net6.0-windows\Engine.g.resources
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\bin\Debug\net6.0-windows\Engine.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\bin\Debug\net6.0-windows\ref\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.g.resources
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\ref\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Engine\obj\Debug\net6.0-windows\Engine.pdb

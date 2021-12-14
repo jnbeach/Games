@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\ref\Connect4.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\bin\Debug\net5.0\Connect4.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\ref\Connect4.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Connect4\obj\Debug\net5.0\Connect4.genruntimeconfig.cache

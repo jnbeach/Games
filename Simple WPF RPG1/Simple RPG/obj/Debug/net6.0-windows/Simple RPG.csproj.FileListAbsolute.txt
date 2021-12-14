@@ -1,0 +1,48 @@
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.exe
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\ref\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG_MarkupCompile.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG_MarkupCompile.lref
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.g.resources
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\ref\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.genruntimeconfig.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.CopyComplete
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.exe
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\ref\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Simple RPG.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG_MarkupCompile.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG_MarkupCompile.lref
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.g.resources
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.csproj.CopyComplete
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\ref\Simple RPG.dll
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.pdb
+C:\Users\straw\OneDrive\Documents\Coding\Games\Simple RPG1\Simple RPG\obj\Debug\net6.0-windows\Simple RPG.genruntimeconfig.cache
